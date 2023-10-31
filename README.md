@@ -23,4 +23,4 @@ O projeto faz uso de uma variedade de tecnologias para proporcionar uma experiê
 
 ##
 
-Estou empolgados em compartilhar este projeto com você e esperamos que ele proporcione uma experiência memorável! Se tiver alguma dúvida ou feedback, não hesite em entrar em contato conosco. Aproveite! 🌟
+Estou empolgados em compartilhar este projeto com você e esperamos que ele proporcione uma experiência memorável! Se tiver alguma dúvida ou feedback, não hesite em entrar em contato conosco. Aproveite! 
