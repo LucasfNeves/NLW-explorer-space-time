@@ -3,10 +3,14 @@ Bem-vindo ao Projeto NLW-explorer-space-time! Este é um projeto web responsivo 
 
 Este projeto foi desenvolvido como parte do evento NLW Space Time da RocketSeat, na trilha explorer.
 
+##
+
 ## Acesse o Projeto
 Para acessar o projeto, clique no link abaixo:
 
 🚀 [Clique aqui e acesse o Projeto](https://lucasfneves.github.io/NLW-explorer-space-time/)
+
+##
 
 ## 🪐 Tecnologias Utilizadas
 O projeto faz uso de uma variedade de tecnologias para proporcionar uma experiência atraente e funcional:
