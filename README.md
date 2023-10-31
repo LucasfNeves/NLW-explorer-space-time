@@ -4,7 +4,7 @@
 Este é um projeto web responsivo de uma cápsula do tempo projetado para exibir memórias em uma linha do tempo, criando uma experiência única para os usuários.
 Este Projeto foi desenvolvido no evento NLW Space Time da RocketSeat, na sua trilha explorer.
 
-##[Clique aqui e acesse o Projeto](https://lucasfneves.github.io/NLW-explorer-space-time/)
+## [Clique aqui e acesse o Projeto](https://lucasfneves.github.io/NLW-explorer-space-time/)
 
 ## 🪐 Tecnologias Utilizadas
 
