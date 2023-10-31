@@ -1,4 +1,4 @@
-🖥️ Projeto NLW-explorer-space-time
+# 🖥️ Projeto NLW-explorer-space-time
 Bem-vindo ao Projeto NLW-explorer-space-time! Este é um projeto web responsivo que visa criar uma experiência única para os usuários, exibindo memórias em uma linha do tempo.
 
 Este projeto foi desenvolvido como parte do evento NLW Space Time da RocketSeat, na trilha explorer.
