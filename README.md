@@ -8,7 +8,7 @@ Este projeto foi desenvolvido como parte do evento NLW Space Time da RocketSeat,
 ## Acesse o Projeto
 Para acessar o projeto, clique no link abaixo:
 
-🚀 [Clique aqui e acesse o Projeto](https://lucasfneves.github.io/NLW-explorer-space-time/)
+🚀 [Clique aqui e acesse o Projeto](https://lucasfneves.github.io/NLW-spaceTime-explorer/)
 
 ##
 
